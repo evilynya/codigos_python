@@ -10,7 +10,7 @@ if A %2 == 0:
 if B %2 == 0: 
     print(f"O número é {B} divisível por 2 ")
 
-if ConnectionAbortedError() %2 == 0: 
+if C %2 == 0: 
     print(f"O número é {C} divisível por 2 ")
 
 if D %2 == 0: 
